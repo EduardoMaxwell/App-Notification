@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284574927714",
+    "project_id": "applicationnotification-36856",
+    "storage_bucket": "applicationnotification-36856.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284574927714:android:d1b35c784f4d4e82b1ba3b",
+        "android_client_info": {
+          "package_name": "com.eduardomaxwell.applicationnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284574927714-bun4h6k5rqdgcdqeo5dbnrndro715m1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBVXX2MiXcYwdAH6_5XFCuUUArrtBFcOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284574927714-bun4h6k5rqdgcdqeo5dbnrndro715m1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
